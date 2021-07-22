@@ -22,13 +22,16 @@ function Menu(props) {
   function cancel(id, count) {
     const canceledItem = items.map((item) => {
       if (id === item.id) {
-        if(item.count>0)
-        return { ...item, count: item.count - 1 };
+        if(item.count>0){
+          setCount(counter-1);
+          return { ...item, count: item.count - 1 };
+        }
+        
       }
       return item;
     });
     setItems(canceledItem);
-    setCount(counter-1);
+    
   }
 
   function remove(id) {
