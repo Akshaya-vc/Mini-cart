@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mini-cart/static/css/main.5b13a6c0.chunk.css",
+    "main.js": "/Mini-cart/static/js/main.e6dc1104.chunk.js",
+    "main.js.map": "/Mini-cart/static/js/main.e6dc1104.chunk.js.map",
+    "runtime-main.js": "/Mini-cart/static/js/runtime-main.cc5b98db.js",
+    "runtime-main.js.map": "/Mini-cart/static/js/runtime-main.cc5b98db.js.map",
+    "static/js/2.519ae4fd.chunk.js": "/Mini-cart/static/js/2.519ae4fd.chunk.js",
+    "static/js/2.519ae4fd.chunk.js.map": "/Mini-cart/static/js/2.519ae4fd.chunk.js.map",
+    "index.html": "/Mini-cart/index.html",
+    "static/css/main.5b13a6c0.chunk.css.map": "/Mini-cart/static/css/main.5b13a6c0.chunk.css.map",
+    "static/js/2.519ae4fd.chunk.js.LICENSE.txt": "/Mini-cart/static/js/2.519ae4fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc5b98db.js",
+    "static/js/2.519ae4fd.chunk.js",
+    "static/css/main.5b13a6c0.chunk.css",
+    "static/js/main.e6dc1104.chunk.js"
+  ]
+}
